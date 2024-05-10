@@ -13,9 +13,3 @@ function superbowlWin(record) {
   }
 }
 console.log(superbowlWin(record));
-
-
-// -- this works but isn't passing the tests -- //
-// const win = record.find(({ result }) => result === "W");
-
-// console.log(win.year); 
